@@ -1,0 +1,10 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "Interactive weather dashboard with Open-Meteo real-time & 7-day forecast data, visual metric charts, geocoding search, and AI activity planning recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
